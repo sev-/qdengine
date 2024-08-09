@@ -49,6 +49,7 @@ enum QDEngineDebugChannels {
 	kDebugSound,
 	kDebugTemp,
 	kDebugQuant,
+	kDebugMovement
 };
 
 class QDEngineEngine : public Engine {
